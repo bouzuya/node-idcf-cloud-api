@@ -1,7 +1,7 @@
 {
   "name": "idcf-cloud-api",
   "description": "A library for IDCF Cloud API written in JavaScript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "bouzuya",
     "email": "m@bouzuya.net",
