@@ -1,6 +1,7 @@
 # node-idcf-cloud-api
 
-A library for [IDCF cloud API](http://www.idcf.jp/cloud/docs/) written in JavaScript.
+A library for [IDCF cloud API](http://www.idcf.jp/cloud/docs/) written in JavaScript (unofficial).
+
 
 ## Installation
 
