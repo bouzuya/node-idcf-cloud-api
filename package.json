@@ -1,0 +1,24 @@
+{
+  "name": "idcf-cloud-api",
+  "description": "A library for IDCF Cloud API written in JavaScript",
+  "version": "0.0.0",
+  "author": {
+    "name": "bouzuya",
+    "email": "m@bouzuya.net",
+    "url": "http://bouzuya.net"
+  },
+  "bugs": {
+    "url": "https://github.com/bouzuya/node-idcf-cloud-api/issues"
+  },
+  "homepage": "https://github.com/bouzuya/node-idcf-cloud-api",
+  "keywords": [
+    "idcf",
+    "api"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bouzuya/node-idcf-cloud-api.git"
+  }
+}
