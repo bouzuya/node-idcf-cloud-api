@@ -8,6 +8,22 @@ A library for [IDCF cloud API](http://www.idcf.jp/cloud/docs/) written in JavaSc
 $ npm install idcf-cloud-api
 ```
 
+## Usage
+
+```javascript
+var idcf = require('idcf-cloud-api');
+
+var client = idcf({
+  endpoint: 'https://compute.jp-east.idcfcloud.com/client/api',
+  apiKey: 'XXX',
+  secretKey: 'YYY'
+});
+client.request('listZones', {})
+.then(function(result) {
+  console.log(result);
+});
+```
+
 ## Development
 
 See `npm run`
